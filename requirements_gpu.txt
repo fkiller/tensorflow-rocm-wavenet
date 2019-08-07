@@ -1,2 +1,2 @@
 librosa>=0.5
-tensorflow-gpu>=1.0.0
+tensorflow-rocm>=1.14.0
